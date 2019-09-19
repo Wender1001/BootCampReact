@@ -1,0 +1,18 @@
+React -
+
+-Biblioteca do JavaScript para criar interfaces de usuário
+
+Primeiramente :
+
+-DOM e Virtual-DOM
+
+DOM = interface que representa como os documentos vão ser lidos
+
+-JSX
+
+JSX = sintaxe que permite escrever elementos HTML no javaScript
+
+
+
+
+
